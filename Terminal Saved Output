@@ -1,0 +1,24 @@
+Last login: Wed Jun  5 12:47:57 on ttys000
+Mohameds-MacBook-Air:~ mohamedjuma-jalloh$ cd Mohamed-Suaib-Jalloh
+Mohameds-MacBook-Air:Mohamed-Suaib-Jalloh mohamedjuma-jalloh$ git add .
+Mohameds-MacBook-Air:Mohamed-Suaib-Jalloh mohamedjuma-jalloh$ git add .
+Mohameds-MacBook-Air:Mohamed-Suaib-Jalloh mohamedjuma-jalloh$ ls
+LICENSE			gulpfile.js		package.json
+README 2.md		img			post.html
+README.md		index.html		scss
+about.html		js			vendor
+contact.html		mail
+css			package-lock.json
+Mohameds-MacBook-Air:Mohamed-Suaib-Jalloh mohamedjuma-jalloh$ ls
+LICENSE			gulpfile.js		package-lock.json
+README 2.md		img			package.json
+about.html		index.html		post.html
+contact.html		js			scss
+css			mail			vendor
+Mohameds-MacBook-Air:Mohamed-Suaib-Jalloh mohamedjuma-jalloh$ 
+
+
+
+
+
+
